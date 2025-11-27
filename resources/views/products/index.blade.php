@@ -6,8 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> DATA PRODUK </h1>
-    <a href="{{route('products.create')}}">Tambah Produk</a>
+    <h1> DATA BARANG </h1>
+    <a href="{{route('products.create')}}">Tambah Barang</a>
 
     <table border="1">
         <tr>
